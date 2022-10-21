@@ -1,7 +1,7 @@
 <?php
 App::uses('AppController', 'Controller');
 
-class MultiOrder_Controller extends AppController
+class Order_Controller extends AppController
 {
   $store = 'SiteName';
   
